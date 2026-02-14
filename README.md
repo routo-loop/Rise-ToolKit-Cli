@@ -29,7 +29,7 @@
 #  Installation
 ---
   ```
-  git clone https://github.com/routo-loop/Rise-ToolKit.git
+  git clone https://github.com/routo-loop/Rise-ToolKit-Cli.git
   pip install -r requirements.txt
   python RiseCli.py
   ```
