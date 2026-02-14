@@ -1,0 +1,18 @@
+{
+  "server_id": "Enter_your_server_id",
+  "channel_id": "Enter_your_voicechannel_id",
+  "status_configs": [
+    {
+      "text": "Rise Toolkit By Routo",
+      "emoji_name": null,
+      "emoji_id": null
+    },
+    {
+      "text": "Tool : discord.gg/mHU4bESA4p",
+      "emoji_name": "🍺",
+      "emoji_id": null
+    }
+  ],
+  "status_rotation_delay": 5,
+  "bio_text": "Join https://discord.gg/mHU4bESA4p for Toolkit"
+}
