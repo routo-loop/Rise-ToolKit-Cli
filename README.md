@@ -2,7 +2,7 @@
 <div align="center">
   <center><img src="assets/logo.png" width="150"></center>
     <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&pause=1000&color=2832c2be%C2%A2er=true&vCenter=true&random=false&width=425&lines=Rise+ToolKit+Cli;By+Routo" alt="Rise ToolKit Cli">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Rise+Toolkit+Cli+VcJoiner;Develop+by+ROUTO" alt="NeuraSelf">
     </div>
 
   <a href="https://discord.gg/d5nDRESjft"><img src="https://invidget.switchblade.xyz/d5nDRESjft" alt="Discord Invite"/> </a>
