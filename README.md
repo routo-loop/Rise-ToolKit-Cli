@@ -73,7 +73,7 @@ Rise Toolkit is an advanced Discord token management suite featuring a completel
 
 <div align="center">
 
-  <center><img src="assets/ui.png" width="700" height="500"></center>
+  <center><img src="assets/ui.jpg" width="700" height="500"></center>
   <br>
   <p>Console Ui</p>
   <br>
